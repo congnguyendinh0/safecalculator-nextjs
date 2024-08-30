@@ -6,6 +6,9 @@ SAFE Calculator is a web application designed to help entrepreneurs and investor
 
 ## Features
 
+## Preview
+[Live demo](https://safecalculator-nextjs.vercel.app/#calculator)
+
 - **Advanced Ownership Calculator**: Estimate ownership based on detailed company capitalization.
 - **Liquidity Event Simulator**: Understand SAFE holder payouts in various liquidity scenarios.
 - **Pro Rata Rights Explainer**: Learn about optional rights for SAFE holders to participate in future rounds.
