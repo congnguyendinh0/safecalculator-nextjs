@@ -1,0 +1,1 @@
+# safecalculator-nextjs
