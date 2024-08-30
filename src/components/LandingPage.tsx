@@ -13,7 +13,7 @@ const LandingPage: React.FC = () => {
           <h2 className="text-4xl font-bold mb-4">Simplify Your Startup Funding</h2>
           <p className="text-xl mb-6">Understand and calculate Post-Money SAFEs with ease</p>
           <Button asChild>
-            <Link href="#calculator">Try the Calculator</Link>
+            <Link href="#calculator">Try the Calculator here</Link>
           </Button>
         </section>
 
