@@ -32,7 +32,7 @@ SAFE Calculator is a web application designed to help entrepreneurs and investor
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/safe-calculator.git
+   git clone https://github.com/congnguyendinh0/safecalculator-nextjs
    ```
 
 2. Navigate to the project directory:
